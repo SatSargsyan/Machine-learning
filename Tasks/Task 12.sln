@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "Task 12\FizzBuzz.csproj", "{AD382798-BDD0-4C72-AFCF-EFDB8548126C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountHotels", "Task14\CountHotels.csproj", "{2CC0CBB8-CD60-4B2B-B607-92E633581D74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asia_vs_Kelli", "Task15\Asia_vs_Kelli.csproj", "{7206C0F7-502B-4CE4-BAAD-057ED9F2F393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare_overloading", "Task20\Compare_overloading.csproj", "{A41B217E-526F-40CF-B4A8-2140C2FB58F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD382798-BDD0-4C72-AFCF-EFDB8548126C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD382798-BDD0-4C72-AFCF-EFDB8548126C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD382798-BDD0-4C72-AFCF-EFDB8548126C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD382798-BDD0-4C72-AFCF-EFDB8548126C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC0CBB8-CD60-4B2B-B607-92E633581D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC0CBB8-CD60-4B2B-B607-92E633581D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC0CBB8-CD60-4B2B-B607-92E633581D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC0CBB8-CD60-4B2B-B607-92E633581D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7206C0F7-502B-4CE4-BAAD-057ED9F2F393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7206C0F7-502B-4CE4-BAAD-057ED9F2F393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7206C0F7-502B-4CE4-BAAD-057ED9F2F393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7206C0F7-502B-4CE4-BAAD-057ED9F2F393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41B217E-526F-40CF-B4A8-2140C2FB58F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41B217E-526F-40CF-B4A8-2140C2FB58F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41B217E-526F-40CF-B4A8-2140C2FB58F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41B217E-526F-40CF-B4A8-2140C2FB58F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
